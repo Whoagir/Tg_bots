@@ -1,0 +1,11 @@
+venv/
+.venv/
+config.py
+res/images/
+res/videos/
+__pycache__/
+*.pyc
+.idea/
+token.*
+config.*
+
